@@ -1,0 +1,27 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# Discuss the FAIRification of lab-data
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+<p align="center">
+![](fairelabs.png){width=40%}      
+</br>
+Integrated lab solutions for an open science lab  
+</p> 
+
+This is a central place for discussions regarding the FAIRification of lab-data. Please visit our website for more information about our organization's goals: https://fairelabs.github.io/webpage/.
+
+Comments should adhere to the [Code of Conduct](https://fairelabs.github.io/webpage/conduct.html).
